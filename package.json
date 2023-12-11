@@ -23,8 +23,11 @@
     "@remix-run/eslint-config": "^2.3.1",
     "@types/react": "^18.2.20",
     "@types/react-dom": "^18.2.7",
+    "autoprefixer": "^10.4.16",
     "eslint": "^8.38.0",
+    "postcss": "^8.4.32",
     "prettier": "^3.1.1",
+    "tailwindcss": "^3.3.6",
     "typescript": "^5.1.6"
   },
   "engines": {
